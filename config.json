@@ -1,0 +1,8 @@
+{
+  "driver": "ODBC Driver 17 for SQL Server",
+  "server": "DESKTOP-BBHOA2A",
+  "database": "UDEMYTEST1",
+  "username": "pythonconsultor",
+  "password": "UDLA",
+  "trusted_connection": false
+}
