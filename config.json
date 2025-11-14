@@ -1,8 +1,8 @@
 {
-  "driver": "ODBC Driver 17 for SQL Server",
-  "server": "DESKTOP-BBHOA2A",
-  "database": "UDEMYTEST1",
-  "username": "pythonconsultor",
-  "password": "UDLA",
-  "trusted_connection": false
+    "server": "DESKTOP-BBHOA2A",
+    "database": "ProyectoIntegrador",
+    "username": "projectadmin_login",
+    "password": "Password_Admin_123",
+    "driver": "ODBC Driver 17 for SQL Server",
+    "trusted_connection": false
 }
